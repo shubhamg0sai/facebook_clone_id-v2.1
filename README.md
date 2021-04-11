@@ -9,12 +9,21 @@ Clone old Facebook all countries  ID's
 # Installation
 
 apt update
+
 apt upgrade -y
+
 apt install git -y
+
 pkg install python
+
 pkg install python2 -y
+
 pip2 install requests
+
 pip2 install mechanize
+
 git clone https://github.com/ShuBhamg0sain/facebook_id_hack-v2
+
 cd facebook_id_hack-v2
+
 python2 S.py 
