@@ -23,8 +23,8 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/ShuBhamg0sain/facebook_id_hack-v2.1
+git clone https://github.com/ShuBhamg0sain/facebook_clone_id-v2.1
 
-cd facebook_id_hack-v2.1
+cd facebook_clone_id-v2.1
 
 python2 S.py 
